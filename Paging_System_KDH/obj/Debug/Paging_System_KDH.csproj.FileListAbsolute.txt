@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\bin\Debug\Paging_System_KDH.exe.config
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\bin\Debug\Paging_System_KDH.exe
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\bin\Debug\Paging_System_KDH.pdb
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\obj\Debug\Paging_System_KDH.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\obj\Debug\Paging_System_KDH.Form1.resources
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\obj\Debug\Paging_System_KDH.Properties.Resources.resources
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\obj\Debug\Paging_System_KDH.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\obj\Debug\Paging_System_KDH.exe
+C:\Users\user\Desktop\김도호\운영체제\김도호_개인프로젝트\Paging_System_KDH\Paging_System_KDH\obj\Debug\Paging_System_KDH.pdb
